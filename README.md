@@ -104,15 +104,9 @@ The dashboard can help financial institutions understand:
 
 These insights can support **credit risk analysis, customer segmentation, and lending strategy decisions**.
 
----
-
-## 🖥️ Dashboard
-
-The project contains a **single-page dashboard** designed for quick analysis of the complete credit portfolio.
-
 ### Dashboard Preview
 
-Add your dashboard screenshot here:
+
 
 ```markdown
 ![German Credit Portfolio Dashboard](dashboard.png)
